@@ -1,0 +1,9 @@
+c:\users\mykar\documents\visual studio 2017\Projects\TMA3_SearchTool_3009422\TMA3_SearchTool_3009422\obj\Debug\TMA3_SearchTool_3009422.csprojResolveAssemblyReference.cache
+c:\users\mykar\documents\visual studio 2017\Projects\TMA3_SearchTool_3009422\TMA3_SearchTool_3009422\obj\Debug\TMA3_SearchTool_3009422.SearchTool.resources
+c:\users\mykar\documents\visual studio 2017\Projects\TMA3_SearchTool_3009422\TMA3_SearchTool_3009422\obj\Debug\TMA3_SearchTool_3009422.Properties.Resources.resources
+c:\users\mykar\documents\visual studio 2017\Projects\TMA3_SearchTool_3009422\TMA3_SearchTool_3009422\obj\Debug\TMA3_SearchTool_3009422.csproj.GenerateResource.Cache
+c:\users\mykar\documents\visual studio 2017\Projects\TMA3_SearchTool_3009422\TMA3_SearchTool_3009422\bin\Debug\TMA3_SearchTool_3009422.exe.config
+c:\users\mykar\documents\visual studio 2017\Projects\TMA3_SearchTool_3009422\TMA3_SearchTool_3009422\bin\Debug\TMA3_SearchTool_3009422.exe
+c:\users\mykar\documents\visual studio 2017\Projects\TMA3_SearchTool_3009422\TMA3_SearchTool_3009422\bin\Debug\TMA3_SearchTool_3009422.pdb
+c:\users\mykar\documents\visual studio 2017\Projects\TMA3_SearchTool_3009422\TMA3_SearchTool_3009422\obj\Debug\TMA3_SearchTool_3009422.exe
+c:\users\mykar\documents\visual studio 2017\Projects\TMA3_SearchTool_3009422\TMA3_SearchTool_3009422\obj\Debug\TMA3_SearchTool_3009422.pdb
